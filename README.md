@@ -5,10 +5,10 @@
 
 A fully responsive personal portfolio website, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
 </div>
-<div>
+<div align="center">
    <img
                   src="./readme-images/desktop.png"
-                  width="800"
+                  width="900"
                   height="700"
                   alt="Praveen"
                   class="w-100"
